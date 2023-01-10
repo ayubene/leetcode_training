@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\15025\Desktop\学习\leetcode刷题\leetcode算法入门刷题\test\main.c(18,10): warning C4047: “函数”:“int”与“int *”的间接级别不同
+C:\Users\15025\Desktop\学习\leetcode刷题\leetcode算法入门刷题\test\main.c(18,8): warning C4024: “swap1”: 形参和实参 1 的类型不同
+C:\Users\15025\Desktop\学习\leetcode刷题\leetcode算法入门刷题\test\main.c(18,14): warning C4047: “函数”:“int”与“int *”的间接级别不同
+C:\Users\15025\Desktop\学习\leetcode刷题\leetcode算法入门刷题\test\main.c(18,12): warning C4024: “swap1”: 形参和实参 2 的类型不同
+  test.vcxproj -> C:\Users\15025\Desktop\学习\leetcode刷题\leetcode算法入门刷题\Debug\test.exe
