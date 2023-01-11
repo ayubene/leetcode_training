@@ -35,6 +35,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "e-876-链表的中间结点
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "m-19-删除链表的倒数第 N 个结点", "m-19-删除链表的倒数第 N 个结点\m-19-删除链表的倒数第 N 个结点.vcxproj", "{BDBAED28-A7C0-4E00-9F61-2168BCE0E7B2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "m-3-无重复字符的最长子串", "m-3-无重复字符的最长子串\m-3-无重复字符的最长子串.vcxproj", "{9DAE06A7-13CA-4921-8584-1D0B87D2378E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "m-567-字符串的排列", "m-567-字符串的排列\m-567-字符串的排列.vcxproj", "{BB200181-B142-4863-9D31-80580052E59C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +175,22 @@ Global
 		{BDBAED28-A7C0-4E00-9F61-2168BCE0E7B2}.Release|x64.Build.0 = Release|x64
 		{BDBAED28-A7C0-4E00-9F61-2168BCE0E7B2}.Release|x86.ActiveCfg = Release|Win32
 		{BDBAED28-A7C0-4E00-9F61-2168BCE0E7B2}.Release|x86.Build.0 = Release|Win32
+		{9DAE06A7-13CA-4921-8584-1D0B87D2378E}.Debug|x64.ActiveCfg = Debug|x64
+		{9DAE06A7-13CA-4921-8584-1D0B87D2378E}.Debug|x64.Build.0 = Debug|x64
+		{9DAE06A7-13CA-4921-8584-1D0B87D2378E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9DAE06A7-13CA-4921-8584-1D0B87D2378E}.Debug|x86.Build.0 = Debug|Win32
+		{9DAE06A7-13CA-4921-8584-1D0B87D2378E}.Release|x64.ActiveCfg = Release|x64
+		{9DAE06A7-13CA-4921-8584-1D0B87D2378E}.Release|x64.Build.0 = Release|x64
+		{9DAE06A7-13CA-4921-8584-1D0B87D2378E}.Release|x86.ActiveCfg = Release|Win32
+		{9DAE06A7-13CA-4921-8584-1D0B87D2378E}.Release|x86.Build.0 = Release|Win32
+		{BB200181-B142-4863-9D31-80580052E59C}.Debug|x64.ActiveCfg = Debug|x64
+		{BB200181-B142-4863-9D31-80580052E59C}.Debug|x64.Build.0 = Debug|x64
+		{BB200181-B142-4863-9D31-80580052E59C}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB200181-B142-4863-9D31-80580052E59C}.Debug|x86.Build.0 = Debug|Win32
+		{BB200181-B142-4863-9D31-80580052E59C}.Release|x64.ActiveCfg = Release|x64
+		{BB200181-B142-4863-9D31-80580052E59C}.Release|x64.Build.0 = Release|x64
+		{BB200181-B142-4863-9D31-80580052E59C}.Release|x86.ActiveCfg = Release|Win32
+		{BB200181-B142-4863-9D31-80580052E59C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
